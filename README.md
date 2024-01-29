@@ -1,4 +1,4 @@
 # hurray
 first project
 <br>
-Author - Sagar Gupta
+Author - Sagar (myself)
